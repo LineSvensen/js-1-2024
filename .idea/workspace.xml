@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loops/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/making-decisions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/making-decisions/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +27,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "git-widget-placeholder": "making-decisions",
+    "git-widget-placeholder": "making-decisions-and-loop-intro",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
