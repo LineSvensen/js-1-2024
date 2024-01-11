@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/import-export-real-example/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-export-real-example/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-export-real-example/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-exports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-exports/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-exports/js/second.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,12 +53,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "functions-import-export-local-storage",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704798595433</updated>
-      <workItem from="1704798598205" duration="16820000" />
+      <workItem from="1704798598205" duration="18319000" />
+      <workItem from="1704972952566" duration="7394000" />
     </task>
     <servers />
   </component>
