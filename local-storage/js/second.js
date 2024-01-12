@@ -1,0 +1,1 @@
+let storedShoppingList = localStorage.getItem('shoppingList');
