@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/advanced/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setInterval/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setInterval/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setTimeOut/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setTimeOut/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setTimeOut/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,6 +64,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\js-1-2024\setInterval" />
       <recent name="C:\Repos\js-1-2024\library-book-display\css" />
       <recent name="C:\Repos\js-1-2024\creating-html-from-an-array\js" />
     </key>
@@ -72,6 +80,7 @@
       <workItem from="1704798598205" duration="18319000" />
       <workItem from="1704972952566" duration="8303000" />
       <workItem from="1705058617769" duration="10843000" />
+      <workItem from="1705317191695" duration="6563000" />
     </task>
     <servers />
   </component>
