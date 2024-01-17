@@ -44,7 +44,7 @@ h1 {
     color: black;
 }
 
-.heart {
+.heart-active {
     fill: red;
     stroke: saddlebrown;
 }
