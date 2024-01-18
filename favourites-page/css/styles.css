@@ -7,11 +7,11 @@
 body {
     margin: 0;
     background-color: #ebebeb;
-    font-family: "Roboto Light";
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
-    background-color: #BADA55;
+    background-color: black;
     padding: 1rem;
 }
 
@@ -23,12 +23,13 @@ header ul {
 
 header ul a {
     text-decoration: none;
-    color: black;
-    font-size: 1.5rem;
+    font-size: 16px;
+    color: white;
 }
 
 h1 {
     font-size: 1.5rem;
+    padding-left: 20px;
 }
 
 .products-container {
@@ -38,7 +39,7 @@ h1 {
 }
 
 .product {
-    background-color: #cdaffc;
+    background-color: lightgray;
     border-radius: 1rem;
     padding: .5rem;
     color: black;
@@ -47,4 +48,8 @@ h1 {
 .heart-active {
     fill: red;
     stroke: saddlebrown;
+}
+
+img {
+    border-radius: 8px;
 }
