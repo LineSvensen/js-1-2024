@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Avenir;
+
+}
+
+.circle {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: darkgrey;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+}
