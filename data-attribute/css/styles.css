@@ -1,0 +1,20 @@
+button {
+    background-color: mediumpurple;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: white;
+    border-radius: 8px;
+    border: grey;
+    width: 150px;
+    height: 40px;
+    padding: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: pink;
+}

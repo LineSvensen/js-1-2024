@@ -1,0 +1,85 @@
+:root {
+    --yl: #FFCB77;
+    --pk: #DC0073;
+    --wh: #FEF9EF;
+    --tk: #17C3B2;
+    --bl: #17C3B2;
+
+
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    padding: 0;
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 8px;
+}
+
+body {
+    font-family: 'Single Day', cursive;
+    background-color: var(--yl);
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+button {
+    border-radius: 8px;
+    padding: 8px 16px 8px 16px;
+    border: dimgrey;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: lightgray;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--pk);
+    border-radius: 8px;
+    width: 350px;
+    height: 400px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+
+.hero-banner {
+    background-image: url("../images/death-x.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+

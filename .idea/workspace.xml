@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="" />
+    <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/18-age-checking-function/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-age-checking-function/images/death-x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-age-checking-function/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-age-checking-function/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-age-checking-function/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attribute/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attribute/images/dog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attribute/images/dog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attribute/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attribute/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,6 +67,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\js-1-2024\18-age-checking-function\images" />
+      <recent name="C:\Repos\js-1-2024\data-attribute\images" />
       <recent name="C:\Repos\js-1-2024\setInterval" />
       <recent name="C:\Repos\js-1-2024\library-book-display\css" />
       <recent name="C:\Repos\js-1-2024\creating-html-from-an-array\js" />
