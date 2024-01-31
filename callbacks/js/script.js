@@ -15,5 +15,3 @@ doSomething(function() {
 // i do something
 // im a callback
 
-
-heeop
