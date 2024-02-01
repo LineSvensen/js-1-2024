@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7062edf-4725-4c0b-8200-d693a28c0007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fetch/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fetch/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/callbacks/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/callbacks/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,7 +53,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +78,7 @@
       <workItem from="1704972952566" duration="8303000" />
       <workItem from="1705058617769" duration="10843000" />
       <workItem from="1705317191695" duration="33475000" />
-      <workItem from="1706612418717" duration="5653000" />
+      <workItem from="1706612418717" duration="11617000" />
     </task>
     <servers />
   </component>
