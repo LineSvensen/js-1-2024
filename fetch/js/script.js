@@ -1,4 +1,4 @@
-let todo = fetch('https://...')
+let todo = fetch('https://docs.noroff.dev/jokes')
     .then(httpResponse => {
         // Check if the request was successful (status code 200-299)
         if (!httpResponse.ok) {
