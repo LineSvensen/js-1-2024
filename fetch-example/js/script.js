@@ -8,10 +8,10 @@ fetch("http://...")
     .then((response) => response.json())
     .then((bookResultData) => {
         bookData = bookResultData;
-        console.log(bookData);
+        // console.log(bookData);
 
         for (const book of bookData) {
-            displayBook(book)
+            displayBook(book);
         }
 
         // displayBook(bookData[0])
@@ -30,11 +30,12 @@ fetch("http://...")
 
 // document.createElement
 
+// function to create and insert the html to display a book
 function displayBook(book){
     const bookDiv = document.createElement("div");
     const bookTitlePara = document.createElement("p");
     bookTitlePara.innerText = book.title;
-    bookImg.src = book.coverImg;
+    bookImg.src = book.coverImg; //????
     bookImg.alt = "a picture of a book";
     bookDiv.appendChild(bookImg);
     bookDiv.appendChild(bookTitlePara);
